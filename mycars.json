@@ -1,0 +1,27 @@
+[
+    {
+        "Id": "1",
+        "Color": "Red",
+        "Brand": "Honda"
+    },
+    {
+        "Id": "2",
+        "Color": "Blue",
+        "Brand": "Volvo"
+    },
+    {
+        "Id": "3",
+        "Color": "Blue",
+        "Brand": "Lamborgini"
+    },
+    {
+        "Id": "4",
+        "Color": "Black",
+        "Brand": "Puma"
+    },
+    {
+        "Id": "5",
+        "Color": "Green ",
+        "Brand": "Limo"
+    }
+]
